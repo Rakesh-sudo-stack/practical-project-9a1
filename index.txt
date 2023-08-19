@@ -1,0 +1,12 @@
+1. Buzz Number - 10-04-23
+2. Prime num Check - 17-04-23
+3. Four function calc - 24-04-23
+4. Print first 10 prime num - 01-05-23
+5. Find greatest num among 3 - 06-05-23
+6. Area of rectangle - 12-05-23
+7. Temperature Conversion - 19-05-23
+8. Voting Eligibility Check - 10-07-23
+9. Factorial - 15-07-23
+10. Sum of even num (1-50) - 21-07-23
+11. Palindrome Check - 04-08-23
+12. Reversing a Number - 12-08-23
